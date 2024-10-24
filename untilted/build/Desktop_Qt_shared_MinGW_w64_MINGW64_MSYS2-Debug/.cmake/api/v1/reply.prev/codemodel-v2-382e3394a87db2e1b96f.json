@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5a80d766e4b3b1ac434a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untilted",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "untilted::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untilted-Debug-dd02ceafa32c7578a42e.json",
+					"name" : "untilted",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untilted_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untilted_autogen-Debug-6673d372aed9ed8a9207.json",
+					"name" : "untilted_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untilted_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untilted_autogen_timestamp_deps-Debug-24fda3c24292fddb3c4d.json",
+					"name" : "untilted_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/projs/sovrprog/untilted/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+		"source" : "C:/projs/sovrprog/untilted"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
